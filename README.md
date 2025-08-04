@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **hobbyist developer** who loves tinkering w
 
 ---
 
-## 🛠️ Tech Preferences
+## Developing Preferences
 
 - **Language of Choice:** PHP (always my first love)
 - **Workhorse:** Node.js (use it a lot, even if my heart is with PHP!)
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a **hobbyist developer** who loves tinkering w
 
 ---
 
-## 🎮 Interests
+## Interests
 
 - **Roblox:** From game dev to casual play, always up for something new.
 - **Motorcycles:** Admiring the two-wheeled life.
@@ -22,13 +22,10 @@ Welcome to my GitHub profile! I'm a **hobbyist developer** who loves tinkering w
 
 ---
 
-## 📫 Let's Connect!
-
 - Check out my [repositories](https://github.com/deeegen?tab=repositories) for more code experiments.
-- Always happy to chat about PHP quirks, Node.js adventures, or the latest in alt fashion and motorcycle culture.
 
 ---
 
-> _"Code, ride, create, repeat."_
+> _ <
 
-Thanks for stopping by! 🚀
+Thanks for stopping by
