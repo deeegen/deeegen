@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pilla (Deeegen)!
+# 👋 Hi, I'm Pilla (@deeegen)!
 
 Welcome to my GitHub profile! I'm a **hobbyist developer** who loves tinkering with code and PHP and Node.js.
 
