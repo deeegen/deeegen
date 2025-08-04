@@ -26,6 +26,6 @@ Welcome to my GitHub profile! I'm a **hobbyist developer** who loves tinkering w
 
 ---
 
-> _ <
+ > _ <
 
 Thanks for stopping by
