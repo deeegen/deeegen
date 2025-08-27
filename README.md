@@ -11,6 +11,9 @@ Welcome to my GitHub profile! I'm a **hobbyist developer** who loves tinkering w
 - **Notable Projects:**
   - [`pilla-in-php`](https://github.com/deeegen/pilla-in-php) — PHP experimentation and fun.
   - `remote-rendezvous` — A long-gone relic, but it still taught me a lot.
+- **Active Projects:**
+  - [`pilla-in-php`](https://github.com/deeegen/pilla-in-php) — Not really "active" but being revamped into NodeJS
+  - [`PortalBytes`](https://github.com/deeegen/portalbytes-v2/) — A nodeJS proxy that uses alloy AND corrosion in toggle.
 
 ---
 
